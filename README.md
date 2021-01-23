@@ -38,7 +38,7 @@ Demonstrate your understanding of this week's concepts by answering the followin
 
         Form validation is used ensures that the data sent in is good.  It can do things like make sure that the email address is written in the correct format and that a password meets the security requirements.
 
-1. In 1-2 sentences, define end to end testing.
+3. In 1-2 sentences, define end to end testing.
         End to End testing  looks at the user experience in its entirety on a webpage.  It will then determine if the UI is intuitive and doesn't contain any bugs. 
 
 ## Instructions
